@@ -5,7 +5,7 @@
 
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=aliabbas12&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbas12" /> </p>
+<img src="https://komarev.com/ghpvc/?username=aliabbas-aa&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbas-aa" /> </p>
 
 <br/>
 
@@ -13,7 +13,6 @@
 - 💬 I love **Bringing Ideas to Reality**.
 - 🏆 High achieving projects such as **Strava** & **DeerCast**.
 - 🔍 Love learning new technologies, expanding my skillset and interested in **AI & ML**.
-- 📧 Feel free to reach me via **[Email](mailto:aliabbas@cmail.carleton.ca)**.
 
 <br/>
 
